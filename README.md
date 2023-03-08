@@ -1,4 +1,4 @@
-# Java - Locadora (pt-br)
+# Java - Locadora (pt-br) 🚗
 
 Oi. Estou criando esse modelo fictício para apresentar alguns conceitos de Java, POO, UML, VMC etc...
 
